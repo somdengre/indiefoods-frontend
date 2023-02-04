@@ -89,4 +89,4 @@ npm start
 - [Akash Gupta](https://github.com/akashgupta1909)
 - [Harshil Mendpara](https://github.com/HarshilMendpara)
 - [Raj Varsani](https://github.com/RajVarsani)
-- [Ujjawal Gupta](https://github.com/UjjawalGupta30)
+- [Som Dengre](https://github.com/somdengre)
