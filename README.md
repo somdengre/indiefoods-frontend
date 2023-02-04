@@ -35,31 +35,31 @@ And finally, we aim to provide healthy home-cooked food at affordable prices.
 
 #### Landing Page
 
-![1](https://github.com/IndieFoods/frontend/blob/main/src/Assets/ReadmeAssets/1.png)
+![1](https://github.com/somdengre/indiefoods-frontend/blob/main/src/Assets/ReadmeAssets/1.png)
 
 #### Signup Page
 
-![2](https://github.com/IndieFoods/frontend/blob/main/src/Assets/ReadmeAssets/2.png)
+![2](https://github.com/somdengre/indiefoods-frontend/blob/main/src/Assets/ReadmeAssets/2.png)
 
 #### User Home Page
 
-![3](https://github.com/IndieFoods/frontend/blob/main/src/Assets/ReadmeAssets/3.png)
+![3](https://github.com/somdengre/indiefoods-frontend/blob/main/src/Assets/ReadmeAssets/3.png)
 
 #### User Profile Page
 
-![4](https://github.com/IndieFoods/frontend/blob/main/src/Assets/ReadmeAssets/4.png)
+![4](https://github.com/somdengre/indiefoods-frontend/blob/main/src/Assets/ReadmeAssets/4.png)
 
 #### Food Details Page
 
-![5](https://github.com/IndieFoods/frontend/blob/main/src/Assets/ReadmeAssets/5.png)
+![5](https://github.com/somdengre/indiefoods-frontend/blob/main/src/Assets/ReadmeAssets/5.png)
 
 #### Chef Home Page
 
-![6](https://github.com/IndieFoods/frontend/blob/main/src/Assets/ReadmeAssets/6.png)
+![6](https://github.com/somdengre/indiefoods-frontend/blob/main/src/Assets/ReadmeAssets/6.png)
 
 #### Chef Profile Page
 
-![7](https://github.com/IndieFoods/frontend/blob/main/src/Assets/ReadmeAssets/7.png)
+![7](https://github.com/somdengre/indiefoods-frontend/blob/main/src/Assets/ReadmeAssets/7.png)
 
 ## Getting Started
 
@@ -67,7 +67,7 @@ And finally, we aim to provide healthy home-cooked food at affordable prices.
 2. Clone the repository
 
 ```sh
-git clone https://github.com/IndieFoods/frontend.git
+git clone https://github.com/somdengre/indiefoods-frontend.git
 ```
 
 3. Open the folder containing the cloned repository
